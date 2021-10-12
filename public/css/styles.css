@@ -146,6 +146,7 @@ footer{
     text-align: start;
     color: #666;
     margin-top: 90px;
+    margin-left: 5px;
 }
 .fa-bars{
     background-color:#1259c3;
@@ -283,6 +284,16 @@ footer{
     #text-header{
         width: 30%;
         margin-right: 25px;
+    }
+}
+@media(min-width: 1280px){
+    #site-nav-bar{
+        position: relative;
+        left: 10%;
+    }
+    #login-nav-bar{
+        position: relative;
+        right: 10%;
     }
 }
 form{
