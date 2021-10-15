@@ -14,6 +14,9 @@ main{
     padding-bottom: 2%;
     padding-left: 5%;
     padding-right: 5%;
+
+}
+#main-home{
     position: relative;
     bottom: 30px;
 }
